@@ -3,7 +3,7 @@
 ## Description:
 This Project will make you understand **how to encrpyt password** and store it in database. This Project is divided in three tasks to understand it better. </br>
 **Task1:** Storing Password into Database directly without encrpyting.</br>
-From Task1 we understand that our password is stored in database directly so it not secure at all, So we need to encrypt it so it. </br>
+From Task1 we understand that our password is stored in database directly so it not secure at all, So we need to encrypt it. </br>
 **Task2:** hash password using **md5** .</br>
 **Task3:** encrypt password using **bcrypt** .
 
