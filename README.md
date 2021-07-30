@@ -32,6 +32,8 @@ Step4: Run app.js file
 ```
 node app.js
 ```
+![image](https://user-images.githubusercontent.com/49397471/127640419-1f74ac12-0c8b-447a-b03f-5b4536c3cf87.png)
+
 
 ## New Approach:
 
