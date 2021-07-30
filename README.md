@@ -86,3 +86,6 @@ It is crucial to keep users' passwords secure to protect against cyber-attacks. 
 ![image](https://user-images.githubusercontent.com/49397471/127653058-40f1ee0a-c0ab-4541-a45a-610d626521e8.png)
 ![image](https://user-images.githubusercontent.com/49397471/127653167-7243496f-ab49-4e62-8a10-f6a29623f4e2.png)
 ![image](https://user-images.githubusercontent.com/49397471/127653225-7aa8e991-1642-4424-bd8a-d6270b3caf6d.png)
+![image](https://user-images.githubusercontent.com/49397471/127653655-35bf08a9-b17e-435f-9768-441a9da9a63f.png)
+![image](https://user-images.githubusercontent.com/49397471/127653710-cf6468cc-2081-4f98-9498-143141e5b1c7.png)
+![image](https://user-images.githubusercontent.com/49397471/127653762-0359b5e2-ff88-4e7b-860e-efa32545c628.png)
