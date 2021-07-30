@@ -70,7 +70,7 @@ It is crucial to keep users' passwords secure to protect against cyber-attacks. 
 
 5. Really, is there any gurantee that password manager softwares will store your password at their server and never going to peek on them. Better you store them on your system disk.
 
-![image](https://user-images.githubusercontent.com/49397471/127640546-e9eb4328-b588-4064-af53-07b5bd611b6c.png)
+<!-- ![image](https://user-images.githubusercontent.com/49397471/127640546-e9eb4328-b588-4064-af53-07b5bd611b6c.png)
 ![image](https://user-images.githubusercontent.com/49397471/127640563-12bfd011-cfd8-4604-86e7-eddebd2e4ff8.png)
 ![image](https://user-images.githubusercontent.com/49397471/127640580-69d38e66-5c8f-467f-9b9e-ac2e5b37aca9.png)
 ![image](https://user-images.githubusercontent.com/49397471/127640594-3dca71af-981d-4952-b7c9-4a682d7ba6a6.png)
@@ -81,4 +81,8 @@ It is crucial to keep users' passwords secure to protect against cyber-attacks. 
 ![image](https://user-images.githubusercontent.com/49397471/127640898-12f92482-b269-4d36-8370-2b1dfccb0d47.png)
 ![image](https://user-images.githubusercontent.com/49397471/127640910-1cadd58d-a618-47c4-894f-c58ed9fe1eb3.png)
 
-![image](https://user-images.githubusercontent.com/49397471/127640965-bddfd0fb-3acb-4cd5-94f9-0890e97b49d5.png)
+![image](https://user-images.githubusercontent.com/49397471/127640965-bddfd0fb-3acb-4cd5-94f9-0890e97b49d5.png) -->
+
+![image](https://user-images.githubusercontent.com/49397471/127653058-40f1ee0a-c0ab-4541-a45a-610d626521e8.png)
+![image](https://user-images.githubusercontent.com/49397471/127653167-7243496f-ab49-4e62-8a10-f6a29623f4e2.png)
+![image](https://user-images.githubusercontent.com/49397471/127653225-7aa8e991-1642-4424-bd8a-d6270b3caf6d.png)
