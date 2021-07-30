@@ -33,7 +33,7 @@ Step4: Run app.js file
 node app.js
 ```
 ![image](https://user-images.githubusercontent.com/49397471/127640419-1f74ac12-0c8b-447a-b03f-5b4536c3cf87.png)
-
+![image](https://user-images.githubusercontent.com/49397471/127640798-1defaabb-7bb2-4b12-9285-51e9a5b000b5.png)
 
 ## New Approach:
 
@@ -75,6 +75,9 @@ It is crucial to keep users' passwords secure to protect against cyber-attacks. 
 ![image](https://user-images.githubusercontent.com/49397471/127640580-69d38e66-5c8f-467f-9b9e-ac2e5b37aca9.png)
 ![image](https://user-images.githubusercontent.com/49397471/127640594-3dca71af-981d-4952-b7c9-4a682d7ba6a6.png)
 
+![image](https://user-images.githubusercontent.com/49397471/127640759-853c9961-95b3-4edb-89c4-d50f0547f3c9.png)
+![image](https://user-images.githubusercontent.com/49397471/127640771-d0bb22f1-3362-4c01-a396-d05329578ed8.png)
 
-
+![image](https://user-images.githubusercontent.com/49397471/127640898-12f92482-b269-4d36-8370-2b1dfccb0d47.png)
+![image](https://user-images.githubusercontent.com/49397471/127640910-1cadd58d-a618-47c4-894f-c58ed9fe1eb3.png)
 
